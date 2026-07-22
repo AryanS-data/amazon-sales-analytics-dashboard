@@ -25,7 +25,7 @@ Using **Excel**, **MySQL**, and **Power BI**, I analyzed **128,975 Amazon orders
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](Images/Executive Dashboard.png)
 
 ## Operations & Business Insights
 
