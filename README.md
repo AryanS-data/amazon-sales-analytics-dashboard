@@ -21,7 +21,7 @@ Using **Excel**, **MySQL**, and **Power BI**, I analyzed **128,975 Amazon orders
 
 # Dashboard Preview
 
-> Replace the paths below with your repository image paths.
+
 
 ### Executive Dashboard
 
