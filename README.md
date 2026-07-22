@@ -23,21 +23,21 @@ Using **Excel**, **MySQL**, and **Power BI**, I analyzed **128,975 Amazon orders
 
 > Replace the paths below with your repository image paths.
 
-## Executive Dashboard
+### Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](Images/Executive%20Dashboard.png)
 
-## Operations & Business Insights
+### Operations & Business Insights
 
-![Operations Dashboard](images/operations-business-insights.png)
+![Operations & Business Insights](Images/Operations%20%26%20Business%20Insights.png)
 
-## Sales & Product Analysis
+### Sales & Product Analysis
 
-![Sales Product Dashboard](images/sales-product-analysis.png)
+![Sales & Product Analysis](Images/Sales%20%26%20Product%20Analysis.png)
 
-## Sales Trends & Customer Insights
+### Sales Trends & Customer Insights
 
-![Sales Trends Dashboard](images/sales-trends-customer-insights.png)
+![Sales Trends & Customer Insights](Images/Sales%20Trends%20%26%20Customer%20Insights.png)
 
 ---
 
