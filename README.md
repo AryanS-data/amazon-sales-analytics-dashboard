@@ -29,15 +29,15 @@ Using **Excel**, **MySQL**, and **Power BI**, I analyzed **128,975 Amazon orders
 
 ## Operations & Business Insights
 
-![Operations Dashboard](images/operations-business-insights.png)
+![Operations & Business Insights](Images/Operations & Business Insights.png)
 
 ## Sales & Product Analysis
 
-![Sales Product Dashboard](images/sales-product-analysis.png)
+![Sales & Product Analysis](Images/Sales & Product Analysis.png)
 
 ## Sales Trends & Customer Insights
 
-![Sales Trends Dashboard](images/sales-trends-customer-insights.png)
+![Sales Trends & Customer Insights](Images/Sales Trends & Customer Insights.png)
 
 ---
 
